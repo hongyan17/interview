@@ -1,0 +1,3 @@
+1. java version 17
+2. port： I used 8181, if that is used change it form PaymentApplication.java line 29
+3.  If want to load records from file, send the file path as parameters when start it
